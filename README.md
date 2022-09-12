@@ -126,27 +126,19 @@
 
 # price monthly:
 
-***» for 1 ip & 1 month = 20k/$2***
+***» for 1 ip & 1 month = 18k
 
-***» for 3 ip & 1 month = 40k/$4***
+***» for 3 ip & 1 month = 50k
 
-***» for 5 ip & 1 month = 60k/$6***
+***» for 5 ip & 1 month = 80k
 
-# price lifetime:
 
-***» for 1 ip & lifetime = 60k/$6***
-
-***» for 3 ip & lifetime = 80k/$8***
-
-***» for 5 ip & lifetime = 100k/$10***
 
 # contact me
 
-***telegram : https://t.me/user_legend***
+***telegram : https://t.me/reza01345***
 
-<p align="left">
-<a href="https://t.me/user_legend" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SF2L2dLlzXCo08rwQkoN-CSc--18rvf-Qw&usqp=CAU" alt="" height="69" width="69" /></a>
-</p>
+
 
 
 ———————————————————
@@ -165,9 +157,4 @@
 
 ———————————————————
 
-# screenshot autoscript vpn
-![20220911_144835](https://user-images.githubusercontent.com/107354006/189515796-a4a89ca4-5ae3-4ceb-91bb-53295865bbf0.jpg)
 
-![20220911_144903](https://user-images.githubusercontent.com/107354006/189515799-f69320cb-c38c-4627-8c55-5bef38657ab9.jpg)
-
-![20220911_144914](https://user-images.githubusercontent.com/107354006/189515806-0c8b7a09-4b35-4009-a856-09688f90ff46.jpg)
